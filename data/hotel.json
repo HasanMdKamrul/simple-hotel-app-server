@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "634f5fa4b04936ec0939f6c8",
+    "picture": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "price": 232,
+    "bed": 2
+  },
+  {
+    "_id": "634f5fa46534da1287d04d1b",
+    "picture": "https://images.unsplash.com/photo-1582719508461-905c673771fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1325&q=80",
+    "price": 376,
+    "bed": 1
+  },
+  {
+    "_id": "634f5fa4f5bddcf225a10bce",
+    "picture": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+    "price": 232,
+    "bed": 2
+  }
+]
